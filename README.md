@@ -1,4 +1,0 @@
-therabona
-=========
-
-The Rabona Magazine
